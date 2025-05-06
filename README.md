@@ -1,4 +1,4 @@
-<h1 align="center">¡ 👋 Que Onda Soy  Arturo Job Escobar Medina</h1>
+<h1 align="center">¡ 👋 Que Onda Soy  Arturo </h1>
 <p align="center">💻 Desarrollador Web  | 🎓 Estudiante de Ingeniería en Sistemas Computacionales</p>
 
 <p align="center">
