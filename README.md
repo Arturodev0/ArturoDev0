@@ -9,9 +9,9 @@
 
 ### 🧠 Sobre mí
 
-- 🧩 Me atrae el  crear soluciones web que mezclen funcionalidad con diseño chingon 
+- 🧩 Me atrae el  crear soluciones web que mezclen funcionalidad con diseño UX/UI 
 - 🎯 Enfocado en escribir código limpio, escalable y bien documentado
-- 🛠️ Stack actual: `JavaScript`, `PHP`, `Laravel`, `Python`, `Django`, `Node.js`, `React.js`, `Flask`
+- 🛠️ Stack actual: `JavaScript`, `PHP`, `Laravel`, `Python`, `Django`, `Node.js`, `Vue.js`, `Flask`
 - ⚡ Siempre aprendiendo algo nuevo del backend, frontend o ciberseguridad
 
 ---
@@ -28,7 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+
 </p>
 
 
