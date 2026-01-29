@@ -1,5 +1,5 @@
 <h1 align="center"> 👋 Que Onda Soy  Arturo </h1>
-<p align="center">💻 Desarrollador Web  | 🎓 Estudiante de Ingeniería en Sistemas Computacionales</p>
+<p align="center">💻 Desarrollador Full Stack  | 🎓 Estudiante de Ingeniería en Sistemas Computacionales</p>
 
 <p align="center">
   <strong>Arturodev0 · he/him</strong>
